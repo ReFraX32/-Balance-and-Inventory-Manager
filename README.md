@@ -41,4 +41,4 @@ You can download it here:
 https://refrax.itch.io/balance-and-inventory-manager
 ![Itch io Preview](https://github.com/user-attachments/assets/fff07f95-0a12-4c91-afc2-7ed9333ff8d2)
 
-The web and IOS version is in development.
+The Web and IOS version is in development.

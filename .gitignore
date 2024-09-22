@@ -7,6 +7,8 @@ node_modules/
 .expo/
 dist/
 web-build/
+/android
+/ios
 
 # Native
 *.orig.*
@@ -33,3 +35,25 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# IDE and Editor Files
+.vscode/
+.idea/
+
+# Build and Output Directories
+/build/
+/out/
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Coverage Reports
+coverage/
+
+# System Files
+Thumbs.db
+.DS_Store

@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "InventoryManagementApp",
+    "name": "BalanceApp",
     "slug": "InventoryManagementApp",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "orientation": "default",
+    "icon": "./assets/BalanceAppLogo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/BalanceAppLogo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,12 +16,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/BalanceAppLogo.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.refrax.BalanceApp"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/BalanceAppLogo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "320ee033-6c82-43b6-b2e6-002689e78d0a"
+      }
     }
   }
 }

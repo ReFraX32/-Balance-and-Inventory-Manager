@@ -1,14 +1,22 @@
 Balance and Inventory Manager is a user-friendly Android app designed to help small businesses and individuals efficiently manage their inventory and track financial balances. Whether you’re running a retail store, managing a warehouse, or just keeping track of personal items, this app provides all the essential tools you need to stay organized and in control.
 
+
 Key Features:
 
 Inventory Management:
+
 Easily add, edit, and delete items in your inventory.
+
 Balance Tracking:
+
 Record and monitor income and expenses.
+
 Register sales and purchase transactions.
+
 Multiple Language Support:
+
 Available in English, Spanish, Portuguese, German, French, and Italian.
+
 Additional Features:
 
 
@@ -29,5 +37,6 @@ Seamless Navigation: Switch between inventory management and balance tracking wi
 Theme Options: Choose between dark and light modes to suit your preference.
 
 You can download it here:
+
 https://refrax.itch.io/balance-and-inventory-manager
 ![Itch io Preview](https://github.com/user-attachments/assets/fff07f95-0a12-4c91-afc2-7ed9333ff8d2)
